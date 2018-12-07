@@ -2,22 +2,39 @@
 
 ---
 
-# What does this mean?
-
-## Or at least our interpretation of what it means.
+# Team Principles
 
 ===
 
-# Advocates on behalf of developers
+# Align with Digital Principles
+- Cloud First
+- Open First
+- User Focused
+- Inclusive
 
 ===
 
-# Provides suypport and guidance to developers
+# Put Developers First
+## Make their jobs easier
 
 ===
 
-# Makes developers lives easier
+# Small Projects - Big Wins
 
+===
+
+# Work in the Open
+
+===
+
+# Don't be dogmatic in our decisions
+
+===
+
+# Make it Easy to do the right things.
+
+===
+# Make it hard to do the wrong things.
 
 ---
 
@@ -50,10 +67,6 @@
 
 ---
 
-# Team Motto: JFDI | FLT
-
----
-
 # What will the team need
 
 ===
@@ -67,21 +80,18 @@
 
 # Autonomy
 
-- Ability to decide what to use
+- Ability to decide what to use and what to pursue
 
 ===
 
 # Multi-Disciplinary team
-  - A11y expert
-  - Researcher
 
 ===
 
 # Metrics (KPIs)
 
-- How do we know what the DX is
-- How we measure it
-- How do we know when we are successfull
+- What are we looking to improve? 
+- How do we know we've succeeded?
 
 ---
 
@@ -93,7 +103,7 @@
 
 ## CS04 (ME) needs to stay operational
 
-We can't have a DX Engineer who doesn't understand the technology.
+We can't have technical leadership that doesn't understand the technology.
 
 ===
 
@@ -104,6 +114,8 @@ There is no single solution for every type of developer
 ===
 
 # Big Bang Approach
+
+Big projects fail, are complicated, and expensive.
 
 ---
 
@@ -122,14 +134,9 @@ There is no single solution for every type of developer
 
 ===
 
-# Don't be dogmatic in our decisions
-
-===
-
 # Partner with other departments
- - CSPS, CDS, StatsCan, CBSA, Every fucking one doing good shit
-
-- Partner with teams in the org - CDO,
+- CSPS, CDS, StatsCan, CBSA, Every fucking one doing good shit
+- Partner with teams in the org - CDO.
 
 ---
 
@@ -157,7 +164,7 @@ There is no single solution for every type of developer
 
 ===
 
-# Micro Mission
+# Micro Missions to engage developers
 
 ===
 
