@@ -77,14 +77,6 @@ Big projects fail, are complicated, and expensive.
 
 ===
 
-# Approx 5 person team (Operational Team)
- - CS04 Tech
- - CS 03
- - 2 x CS02s
- - 1 Junior (Student/01)
-
-===
-
 # Micro Missions to engage developers
 
 ===
@@ -137,10 +129,14 @@ Big projects fail, are complicated, and expensive.
 
 ===
 
+# Support from Senior MGMT.
+
+===
+
 # Cloud
 
 - Place to experiment
-- Place to host tools
+- Place to host tools/services
 
 ===
 
@@ -176,6 +172,6 @@ Big projects fail, are complicated, and expensive.
 
 ===
 
-# Partner with other departments
-- CSPS, CDS, StatsCan, CBSA, Every fucking one doing good shit
+# Partnerships 
+- CDS, CSPS, StatsCan, CBSA, etc... 
 - Partner with teams in the org - CDO.
