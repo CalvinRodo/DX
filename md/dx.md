@@ -2,42 +2,6 @@
 
 ---
 
-# Team Principles
-
-===
-
-# Align with Digital Principles
-- Cloud First
-- Open First
-- User Focused
-- Inclusive
-
-===
-
-# Put Developers First
-## Make their jobs easier
-
-===
-
-# Small Projects - Big Wins
-
-===
-
-# Work in the Open
-
-===
-
-# Don't be dogmatic in our decisions
-
-===
-
-# Make it Easy to do the right things.
-
-===
-# Make it hard to do the wrong things.
-
----
-
 #  Questions that need to be answered?
 
 ===
@@ -61,37 +25,9 @@
 
 ===
 
-# How big of a team
+# How big of a team is it even a team?
 
 - We have ideas but what can we actually get.
-
----
-
-# What will the team need
-
-===
-
-# Cloud
-
-- Place to experiment
-- Place to host tools
-
-===
-
-# Autonomy
-
-- Ability to decide what to use and what to pursue
-
-===
-
-# Multi-Disciplinary team
-
-===
-
-# Metrics (KPIs)
-
-- What are we looking to improve? 
-- How do we know we've succeeded?
 
 ---
 
@@ -107,6 +43,12 @@ We can't have technical leadership that doesn't understand the technology.
 
 ===
 
+# Document Factory
+
+Do things, don't Document Things
+
+===
+
 # One size fits all
 
 There is no single solution for every type of developer
@@ -116,27 +58,6 @@ There is no single solution for every type of developer
 # Big Bang Approach
 
 Big projects fail, are complicated, and expensive.
-
----
-
-# What must we do
-
-===
-
-# Make it easy to do things right, and hard to do things wrong
-
-===
-
-# Small iterations and Quick Wins
-
-- Maximum time line for each thing? 3 Sprints each
-- Find out early when something doesn't work [Fail Fast]
-
-===
-
-# Partner with other departments
-- CSPS, CDS, StatsCan, CBSA, Every fucking one doing good shit
-- Partner with teams in the org - CDO.
 
 ---
 
@@ -174,3 +95,87 @@ Big projects fail, are complicated, and expensive.
 
 # Heal the papercuts
 
+---
+
+# Team Principles
+
+===
+
+# Align with Digital Principles
+- Cloud First
+- Open First
+- User Focused
+- Inclusive
+
+===
+
+# Put Developers First
+## Make their jobs easier
+
+===
+
+# Small Projects - Big Wins
+
+===
+
+# Work in the Open
+
+===
+
+# Don't be dogmatic in our decisions
+
+===
+
+# Make it Easy to do the right things.
+
+===
+# Make it hard to do the wrong things.
+
+---
+
+# What will the team/position need
+
+===
+
+# Cloud
+
+- Place to experiment
+- Place to host tools
+
+===
+
+# Autonomy
+
+- Ability to decide what to use and what to pursue
+
+===
+
+# Multi-Disciplinary team
+
+===
+
+# Metrics (KPIs)
+
+- What are we looking to improve?
+- How do we know we've succeeded?
+
+---
+
+# What must we do
+
+===
+
+# Make it easy to do things right, and hard to do things wrong
+
+===
+
+# Small iterations and Quick Wins
+
+- Maximum time line for each thing? 3 Sprints each
+- Find out early when something doesn't work [Fail Fast]
+
+===
+
+# Partner with other departments
+- CSPS, CDS, StatsCan, CBSA, Every fucking one doing good shit
+- Partner with teams in the org - CDO.
