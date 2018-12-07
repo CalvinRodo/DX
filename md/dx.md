@@ -1,33 +1,6 @@
 # Developer Experience (DX) Team
-
----
-
-#  Questions that need to be answered?
-
 ===
-
-# What is the Mandate?
-
-===
-
-# What Authority will we have
-
-  - Whose Toes are we stepping on
-    - Testing Services, Release Services, SDS, SSC, ...
-
-===
-
-# Budget
-
-===
-
-# Governance
-
-===
-
-# How big of a team is it even a team?
-
-- We have ideas but what can we actually get.
+Developer Experience (DX) is inspired by the User Experience practice and sees developers as a special case of users. Developer Experience Design is the practice of understanding how developers get their work done, and optimizing that experience.
 
 ---
 
@@ -35,143 +8,75 @@
 
 ===
 
-# Endless Meetings
-
-## CS04 (ME) needs to stay operational
-
-We can't have technical leadership that doesn't understand the technology.
+# Can't be Endless Meetings
 
 ===
 
-# Document Factory
+# Can't be a Document Factory
 
-Do things, don't Document Things
-
-===
-
-# One size fits all
-
-There is no single solution for every type of developer
+- CIR/SRU, M-Series, R-Series, SAD Documents :(
 
 ===
 
-# Big Bang Approach
+# Can't be One size fits all
 
-Big projects fail, are complicated, and expensive.
+- There is no single solution for every type of developer
+- Not a free for all.
+
+===
+
+# Can't be a Big Bang Approach
+
+- Big projects fail, are complicated, and expensive.
 
 ---
 
-# What do we Propose
+# What it must be
+
+===
+# Principle Based
+
+- Align with Digital Principles
+- Put Developers First
+- Small Projects - Big Wins
+- Work in the Open
+- Don't be dogmatic in our decisions
+- Make it Easy to do the right things.
+- Make it hard to do the wrong things.
 
 ===
 
-# Expand the mandate of MTS to include DX
+# Supported from Senior MGMT.
+
+- Funded
+- Given Authority
+- Autonomy
+
 
 ===
 
-# Create a small progressive team
+# Value Driven
+
+- Clearly defined objectives
+- Measurable benefits (KPIs)
+    - What are we looking to improve?
+    - How do we know we've succeeded or failed?
 
 ===
 
-# Go after the people who are looking for change
-
-===
-
-# Micro Missions to engage developers
-
-===
-
-# Fix the broken windows
-
-===
-
-# Heal the papercuts
-
+# Collaborative
+- Multi-Disciplinary Team (Not just Devs)
+- Partnerships
+    - External CDS, CSPS, StatsCan, CBSA, etc...
+    - Internal CDO, EO, ES
 ---
 
-# Team Principles
+# What do we do to make it happen
 
 ===
 
-# Align with Digital Principles
-- Cloud First
-- Open First
-- User Focused
-- Inclusive
-
-===
-
-# Put Developers First
-## Make their jobs easier
-
-===
-
-# Small Projects - Big Wins
-
-===
-
-# Work in the Open
-
-===
-
-# Don't be dogmatic in our decisions
-
-===
-
-# Make it Easy to do the right things.
-
-===
-# Make it hard to do the wrong things.
-
----
-
-# What will the team/position need
-
-===
-
-# Support from Senior MGMT.
-
-===
-
-# Cloud
-
-- Place to experiment
-- Place to host tools/services
-
-===
-
-# Autonomy
-
-- Ability to decide what to use and what to pursue
-
-===
-
-# Multi-Disciplinary team
-
-===
-
-# Metrics (KPIs)
-
-- What are we looking to improve?
-- How do we know we've succeeded?
-
----
-
-# What must we do
-
-===
-
-# Make it easy to do things right, and hard to do things wrong
-
-===
-
-# Small iterations and Quick Wins
-
-- Maximum time line for each thing? 3 Sprints each
-- Find out early when something doesn't work [Fail Fast]
-
-===
-
-# Partnerships 
-- CDS, CSPS, StatsCan, CBSA, etc... 
-- Partner with teams in the org - CDO.
+- Change the Mandate of MTS (Digital Delivery Team)
+- Build and fund the DX (Digital Experience) team
+- Change the organization to put the developers first.
+- Build an organization that developers want to work in.
+- DevOps/ALM as a Service.
