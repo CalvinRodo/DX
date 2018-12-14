@@ -14,8 +14,6 @@ Developer Experience (DX) is inspired by the User Experience practice and sees d
 
 # Can't be a Document Factory
 
-- CIR/SRU, M-Series, R-Series, SAD Documents :(
-
 ===
 
 # Can't be One size fits all
@@ -67,16 +65,14 @@ Developer Experience (DX) is inspired by the User Experience practice and sees d
 # Collaborative
 - Multi-Disciplinary Team (Not just Devs)
 - Partnerships
-    - External CDS, CSPS, StatsCan, CBSA, etc...
-    - Internal CDO, EO, ES
+
 ---
 
 # What do we do to make it happen
 
 ===
 
-- Change the Mandate of MTS (Digital Delivery Team)
-- Build and fund the DX (Digital Experience) team
+- Build and fund a team that reports directly to BSI Senior Mgmt.
 - Change the organization to put the developers first.
 - Build an organization that developers want to work in.
 - DevOps/ALM as a Service.
