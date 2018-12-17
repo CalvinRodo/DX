@@ -1,5 +1,6 @@
 # Developer Experience (DX) Team
 ===
+
 Developer Experience (DX) is inspired by the User Experience practice and sees developers as a special case of users. Developer Experience Design is the practice of understanding how developers get their work done, and optimizing that experience.
 
 ---
@@ -32,9 +33,9 @@ Developer Experience (DX) is inspired by the User Experience practice and sees d
 # What it must be
 
 ===
+
 # Principle Based
 
-- Align with Digital Principles
 - Put Developers First
 - Small Projects - Big Wins
 - Work in the Open
@@ -75,4 +76,3 @@ Developer Experience (DX) is inspired by the User Experience practice and sees d
 - Build and fund a team that reports directly to BSI Senior Mgmt.
 - Change the organization to put the developers first.
 - Build an organization that developers want to work in.
-- DevOps/ALM as a Service.
