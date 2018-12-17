@@ -39,8 +39,8 @@ Developer Experience (DX) is inspired by the User Experience practice and sees d
 - Small Projects - Big Wins
 - Work in the Open
 - Don't be dogmatic in our decisions
-- Make it Easy to do the right things.
-- Make it hard to do the wrong things.
+- Make it Easy to do the Right Things
+- Make it Hard to do the Wrong Things
 
 ===
 
